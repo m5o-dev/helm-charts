@@ -1,0 +1,14 @@
+apiVersion: v1
+entries:
+  bridge:
+  - apiVersion: v2
+    appVersion: latest
+    created: "2025-04-18T21:52:45.210835-03:00"
+    description: Ponte para ter acesso ao cluster
+    digest: 34c48abc39cb6f185f9fa552444128bccf93f42cc6620e6b9a570ead81b59415
+    name: bridge
+    type: application
+    urls:
+    - https://m5o-dev.github.io/helm-charts/bridge/bridge-0.0.1.tgz
+    version: 0.0.1
+generated: "2025-04-18T21:52:45.209556-03:00"
